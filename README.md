@@ -4,10 +4,10 @@ Personal portfolio website built with Vite, React, TypeScript, and Tailwind CSS.
 
 The site showcases:
 
-- professional summary and hero section
-- featured AI, ML, backend, and analytics projects
-- experience, education, certifications, and technical skills
-- contact section for direct outreach
+- Professional summary and hero section
+- Featured AI, ML, backend, and analytics projects
+- Experience, education, certifications, and technical skills
+- Contact section for direct outreach
 
 ## Tech Stack
 
